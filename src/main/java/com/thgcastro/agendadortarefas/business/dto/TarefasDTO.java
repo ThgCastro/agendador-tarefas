@@ -16,7 +16,7 @@ public class TarefasDTO {
     private String nomeTarefa;
     private String descricao;
     private LocalDateTime dataCriacao;
-    private LocalDateTime dataEnvio;
+    private LocalDateTime dataEvento;
     private String emailUsuario;
     private LocalDateTime dataAlteracao;
     private StatusNotificacaoEnum statusNotificacaoEnum;
